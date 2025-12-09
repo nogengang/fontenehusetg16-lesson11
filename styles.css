@@ -1,0 +1,18 @@
+:root{
+    /*colour variables */
+    --primaryColor: red;
+    --secondaryColor: lightcoral;
+    --accentcolor: forestgreen;
+    --lightColor:#fdfdfd;
+    --darkColor:#0d0d0d;
+
+/*spacing variables*/
+    --smallSpace: 8px;
+    --mediumSpace: 16px;
+    --largeSpace: 24px;
+
+    /*font  variables*/
+    --headingFont:fantasy;
+    --mainFont:Arial;
+
+}
