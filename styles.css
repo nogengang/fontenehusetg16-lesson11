@@ -39,4 +39,23 @@
     gap: var(--mediumSpace);
 }
 
+/*LOCAL*/
+/*Heaeer*/
+.headerNavList{
+    list-style-type: none; 
+}
+
+.navListLink{
+    text-decoration: none;
+    color: var(--darkColor);
+}
+
+.header{
+    background-color: var(--secondaryColor);
+}
+
+.footer{
+    background-color: var(--secondaryColor);
+}
+
 
