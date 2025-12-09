@@ -24,7 +24,19 @@
         display: flex;
     }
 .flexColumn{
+    display:flex ;
         flex-direction: column;
     }
+.flexCenter {
+    align-items: center;
+    justify-content: center;
+}
+.flexCenterBetween{
+    align-items: center;
+    justify-content: space-between;
+}
+.flexGap{
+    gap: var(--mediumSpace);
+}
 
 
