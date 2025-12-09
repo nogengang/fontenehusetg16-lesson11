@@ -1,3 +1,4 @@
+/*CSS variables*/
 :root{
     /*colour variables */
     --primaryColor: red;
@@ -16,3 +17,14 @@
     --mainFont:Arial;
 
 }
+
+/*GLOBAL*/
+.flex
+    {
+        display: flex;
+    }
+.flexColumn{
+        flex-direction: column;
+    }
+
+
